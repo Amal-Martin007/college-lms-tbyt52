@@ -1,0 +1,8 @@
+{
+  "name": "College LMS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "da4ba12a"
+}
